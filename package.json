@@ -1,0 +1,26 @@
+{
+  "name": "mario-scribbletune",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimbeanZN/mario-scribbletune.git"
+  },
+  "keywords": [
+    "scribbletune",
+    "mario"
+  ],
+  "author": "Doron N Epstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JimbeanZN/mario-scribbletune/issues"
+  },
+  "homepage": "https://github.com/JimbeanZN/mario-scribbletune#readme",
+  "devDependencies": {
+    "scribbletune": "^0.10.1"
+  }
+}
